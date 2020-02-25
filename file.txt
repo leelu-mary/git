@@ -3,4 +3,6 @@ carrot
 cucumber is really ugly
 raddish is really pretty
 pineapple is really tasty
+green pea is ugly
+peanut is really healthy
 
