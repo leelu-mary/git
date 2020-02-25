@@ -1,3 +1,6 @@
 pea 
 carrot
+cucumber is really ugly
+raddish is really pretty
+pineapple is really tasty
 
